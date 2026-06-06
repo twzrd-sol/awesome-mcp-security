@@ -177,6 +177,7 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
     - [pomerium/mcp-app-demo](https://github.com/pomerium/mcp-app-demo)
     - [pomerium/mcp-servers](https://github.com/pomerium/mcp-servers)
 - [urldna/mcp](https://github.com/urldna/mcp) - urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server providing on-chain trust scoring and signed receipts for AI agents on Solana. Pre-dispatch trust gating, agent reputation scoring, and x402/USDC micropayment verification. Zero-install: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`
 
 ## 💻 Other Useful Resources
 
