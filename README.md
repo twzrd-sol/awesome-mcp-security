@@ -177,6 +177,7 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
     - [pomerium/mcp-app-demo](https://github.com/pomerium/mcp-app-demo)
     - [pomerium/mcp-servers](https://github.com/pomerium/mcp-servers)
 - [urldna/mcp](https://github.com/urldna/mcp) - urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.
+- **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** - Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed V5 trust receipts settled in <1s. Trust scoring and signed receipt verification as a security primitive for agent-to-agent trust on Solana.
 
 ## 💻 Other Useful Resources
 
